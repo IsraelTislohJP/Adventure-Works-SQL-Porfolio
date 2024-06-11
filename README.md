@@ -1,4 +1,5 @@
 **Adventure Works Database Queries**
+
 This repository contains a collection of SQL queries developed using the Adventure Works database in SQL Server Management Studio (SSMS). These queries are designed to extract insightful information from the database, including:
 
 **Top Products Sold:** Identifying the best-selling products.
